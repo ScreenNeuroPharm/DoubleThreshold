@@ -7,22 +7,16 @@
 
 
 ### Code folder architecture:
-- Analysis folder:
-    * 
+- Main folder:
+    * main function to run the simulation and cross-correlation analysis
 
 - Connectivity folder:
-    * 
+    * It contains functions to analyze connectivity features of the models
 
-- CostEvalutaion folder:
-    * 
+- NetworkModels folder:
+    * It contains functions to build the netwokr models
 
-- Model folder:
-    *  
-
-- Stat folder:
-    * 
-
-- Stimulation folder:
-    * 
+- ThresholdAlgorithm folder:
+    * It contains functions to run and evaluate the thresholgs algorithms
 
 - Utilities: supplementary functions
